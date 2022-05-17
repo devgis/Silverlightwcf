@@ -1,0 +1,9 @@
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\WCF.Data.dll
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\WCF.Data.pdb
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\EntityFramework.dll
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\EntityFramework.xml
+E:\temp\SilverlightAPP\WCF.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\temp\SilverlightAPP\WCF.Data\obj\Debug\WCF.Data.dll
+E:\temp\SilverlightAPP\WCF.Data\obj\Debug\WCF.Data.pdb
+E:\temp\SilverlightAPP\WCF.Data\obj\Debug\WCF.Data.csprojResolveAssemblyReference.cache

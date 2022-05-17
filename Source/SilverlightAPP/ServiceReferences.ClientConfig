@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="BasicHttpBinding_IDService" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="../DService.svc" binding="basicHttpBinding"
+                bindingConfiguration="BasicHttpBinding_IDService" contract="MyWS.IDService"
+                name="BasicHttpBinding_IDService" />
+        </client>
+    </system.serviceModel>
+</configuration>
